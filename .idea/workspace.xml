@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c26341a-cbb1-4876-bc52-5428850d6c62" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Book/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Ferrari/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Ferrari/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Ferrari/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/GenericBox/Jar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/GenericBox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/GenericBox/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/InterfacePerson/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/InterfacePerson/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/InterfacePerson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/OOPBasicDefineCl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/OOPBasicDefineCl/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/OOPBasicStaticId/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/OOPBasicStaticId/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/OOPbasicOpinion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/OOPbasicOpinion/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/bookShop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/bookShop/GoldenEditionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/bookShop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/carSalesman/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/carSalesman/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/carSalesman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/classBox/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/classBox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/companyRoster/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/companyRoster/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/exam/internship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/exam/internship2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/exam/opss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/exam/snakeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/google/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/linear2/Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/linear2/balanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/linear2/basicQueOper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/linear2/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/mankind/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/mankind/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/mankind/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/mankind/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/multiplyImp/Birthable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/multiplyImp/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/multiplyImp/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/multiplyImp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/onlineDataBase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/onlineDataBase/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/personInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/personInheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/pokemonTrainer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/pokemonTrainer/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/pokemonTrainer/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/polimorfism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/polimorfism/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/prepExam/earthquaqe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/prepExam/natureProphet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/rawData/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/rawData/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/rawData/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/rawData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/rawData/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/setsAndmaps/academyGraduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/setsAndmaps/accurancies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/setsAndmaps/parkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/setsAndmaps/softUniWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/shoppingSpree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/shoppingSpree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/shoppingSpree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/straemAPI/avarageDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/straemAPI/findAndSumInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/straemAPI/firstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/straemAPI/minEvenDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/straemAPI/takeTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/straemAPI/upperString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Vehicle.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyFirstJavaProgram$charity.coverage" NAME="charity Coverage Results" MODIFIED="1509281335886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MyFirstJavaProgram$bonus_points.coverage" NAME="bonus_points Coverage Results" MODIFIED="1506171530692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MyFirstJavaProgram$chetno_chislo.coverage" NAME="chetno_chislo Coverage Results" MODIFIED="1506174721280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="newnew.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/newnew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="october.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/october.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p03_Even_or_Odd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/p03_Even_or_Odd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="square_stars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/square_stars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="steropor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/steropor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tcikyl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/tcikyl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/advancedJava" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/advancedJava/methodOverriding/Main/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/venchile.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/vehicle.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/shoppingSpree/Product.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/shoppingSpree/Person.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/shoppingSpree/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/onlineDataBase/Database.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/onlineDataBase/Songlenght.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/onlineDataBase/SongLenght.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/onlineDataBase/SongLength.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/onlineDataBase/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/onlineDataBase/Song.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Car.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Track.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Truck.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/venchilesOOP/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Truck.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Car.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Bus.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Problem2VehiclesExtension/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/BloodCell.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/WhiteBloodCell.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/RedBloodCell.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Microbes.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Bacteria.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Virus.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Fungi.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Cells.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Clusters.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Organism.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/InterfacePerson/Person.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/InterfacePerson/Citizen.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/InterfacePerson/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/multiplyImp/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/multiplyImp/Identifiable.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/multiplyImp/Birthable.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/multiplyImp/CitizenTest.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/multiplyImp/Citizen.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Ferrari/Car.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Ferrari/Ferrari.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Ferrari/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/GenericBox/Box.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/GenericBox/T.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/GenericBox/Jar.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Library/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Library/Library.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Book/Main.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Book/Library.java" />
+        <option value="$PROJECT_DIR$/src/advancedJava/Book/Book.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/examLate.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules" />
+    <handled-path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules" />
+    <handled-path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules" />
+    <handled-path value="D:/former-d/2018/softuni/skeleton/node_modules" />
+    <handled-path value="D:/former-d/2018/softuni/untitled/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="D:/former-d/2018/softuni/Tech_J/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/07. Software-Technologies-JavaScript-Blog-Basic-Functionality-Skeleton/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/@types/geojson/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/@types/node/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/abbrev/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/accepts/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/align-text/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/amdefine/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/ansi-regex/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/ansicolors/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/array-flatten/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/async/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/babel-runtime/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/basic-auth/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/body-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/builtin-modules/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cardinal/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/center-align/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cli-color/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cliui/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cls-bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/code-point-at/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/commander/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/config-chain/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/content-disposition/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/content-type/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cookie-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cookie-signature/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cookie/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/core-js/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/core-util-is/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/crc/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/cross-spawn/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/d/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/decamelize/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/denque/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/destroy/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/dottie/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/editorconfig/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/editorconfig/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/ee-first/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/encodeurl/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/error-ex/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/es5-ext/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/es6-iterator/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/es6-symbol/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/es6-weak-map/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/escape-html/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/esprima/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/etag/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/event-emitter/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/execa/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/express-session/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/express/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/finalhandler/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/find-up/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/foreachasync/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/forwarded/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/fresh/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/fs-extra/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/generate-function/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/generic-pool/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/get-caller-file/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/get-stream/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/graceful-fs/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/handlebars/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/hbs/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/hosted-git-info/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/iconv-lite/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/inflection/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/inherits/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/ini/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/invert-kv/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/ipaddr.js/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-arrayish/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-builtin-module/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-promise/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/is-stream/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/isarray/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/isexe/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/js-beautify/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/jsonfile/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/kind-of/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/lazy-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/lcid/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/load-json-file/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/locate-path/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/lodash/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/long/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/longest/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/lru-queue/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/media-typer/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mem/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/memoizee/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/merge-descriptors/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/methods/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mime-db/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mime-types/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mime/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mimic-fn/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/minimist/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mkdirp/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/moment-timezone/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/moment/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/morgan/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/ms/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/mysql2/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/named-placeholders/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/named-placeholders/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/negotiator/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/next-tick/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/nopt/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/normalize-package-data/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/npm-run-path/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/number-is-nan/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/object-assign/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/on-finished/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/on-headers/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/optimist/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/os-locale/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/p-finally/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/p-limit/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/p-locate/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/p-try/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/parse-json/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/parseurl/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/passport-local/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/passport-strategy/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/passport/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/path-exists/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/path-key/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/path-parse/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/path-to-regexp/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/path-type/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/pause/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/pify/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/process-nextick-args/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/proto-list/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/proxy-addr/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/pseudomap/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/qs/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/random-bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/range-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/raw-body/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/read-pkg-up/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/read-pkg/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/readable-stream/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/redeyed/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/regenerator-runtime/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/repeat-string/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/require-directory/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/require-main-filename/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/resolve/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/retry-as-promised/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/right-align/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/safe-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/semver/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/send/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/seq-queue/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize-cli/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize-cli/node_modules/cliui/node_modules/string-width/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize-cli/node_modules/cliui/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize-cli/node_modules/yargs/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize-cli/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sequelize/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/serve-static/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/set-blocking/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/shebang-command/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/shebang-regex/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/shimmer/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sigmund/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/signal-exit/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/spdx-correct/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/spdx-exceptions/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/spdx-expression-parse/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/spdx-license-ids/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/sqlstring/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/string-width/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/string_decoder/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/strip-ansi/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/strip-bom/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/strip-eof/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/terraformer-wkt-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/terraformer/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/timers-ext/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/toposort-class/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/type-is/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/uglify-js/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/uglify-to-browserify/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/uid-safe/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/umzug/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/universalify/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/unpipe/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/util-deprecate/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/utils-merge/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/uuid/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/validate-npm-package-license/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/validator/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/vary/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/walk/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/which-module/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/which/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/window-size/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/wkx/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/wrap-ansi/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/y18n/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/yallist/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/yargs-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/node_modules/yargs/package.json" />
+      <path value="D:/former-d/2018/softuni/blog_javascript/blog_js/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/@types/geojson/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/@types/node/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/accepts/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/align-text/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/amdefine/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/ansicolors/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/array-flatten/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/async/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/basic-auth/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/body-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cardinal/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/center-align/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cliui/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cls-bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/content-disposition/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/content-type/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cookie-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cookie-signature/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/cookie/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/core-util-is/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/crc/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/decamelize/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/denque/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/destroy/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/dottie/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/ee-first/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/encodeurl/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/escape-html/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/esprima/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/etag/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/express-session/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/express/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/finalhandler/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/foreachasync/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/forwarded/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/fresh/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/generate-function/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/generic-pool/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/handlebars/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/hbs/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/iconv-lite/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/inflection/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/inherits/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/ipaddr.js/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/is-bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/is-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/isarray/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/kind-of/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/lazy-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/lodash/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/long/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/longest/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/media-typer/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/merge-descriptors/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/methods/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/mime-db/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/mime-types/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/mime/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/minimist/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/moment-timezone/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/moment/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/morgan/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/ms/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/mysql2/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/named-placeholders/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/named-placeholders/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/negotiator/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/object-assign/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/on-finished/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/on-headers/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/optimist/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/parseurl/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/passport-strategy/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/passport/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/path-to-regexp/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/pause/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/process-nextick-args/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/proxy-addr/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/pseudomap/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/qs/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/random-bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/range-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/raw-body/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/readable-stream/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/redeyed/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/repeat-string/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/retry-as-promised/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/right-align/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/safe-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/semver/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/send/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/seq-queue/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/sequelize/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/sequelize/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/serve-static/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/shimmer/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/sqlstring/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/string_decoder/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/terraformer-wkt-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/terraformer/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/toposort-class/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/type-is/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/uglify-js/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/uglify-to-browserify/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/uid-safe/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/unpipe/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/util-deprecate/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/utils-merge/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/uuid/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/validator/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/vary/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/walk/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/window-size/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/wkx/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/yallist/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/node_modules/yargs/package.json" />
+      <path value="D:/former-d/2018/softuni/exam prep Alen/Skeletons/JavaScript/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/@types/geojson/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/@types/node/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/accepts/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/align-text/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/amdefine/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/ansicolors/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/array-flatten/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/async/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/basic-auth/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/body-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cardinal/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/center-align/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cliui/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cls-bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/content-disposition/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/content-type/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cookie-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cookie-signature/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/cookie/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/core-util-is/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/crc/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/decamelize/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/denque/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/destroy/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/dottie/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/ee-first/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/encodeurl/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/escape-html/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/esprima/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/etag/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/express-session/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/express/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/express/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/finalhandler/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/foreachasync/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/forwarded/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/fresh/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/generate-function/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/generic-pool/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/handlebars/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/hbs/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/iconv-lite/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/inflection/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/inherits/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/ipaddr.js/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/is-bluebird/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/is-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/isarray/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/kind-of/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/lazy-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/lodash/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/long/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/longest/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/media-typer/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/merge-descriptors/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/methods/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/mime-db/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/mime-types/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/mime/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/minimist/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/moment-timezone/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/moment/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/morgan/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/ms/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/mysql2/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/named-placeholders/node_modules/lru-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/named-placeholders/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/negotiator/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/object-assign/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/on-finished/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/on-headers/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/optimist/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/parseurl/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/passport-strategy/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/passport/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/path-to-regexp/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/pause/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/process-nextick-args/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/proxy-addr/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/pseudomap/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/qs/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/random-bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/range-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/raw-body/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/readable-stream/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/redeyed/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/repeat-string/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/retry-as-promised/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/right-align/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/safe-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/semver/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/send/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/send/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/seq-queue/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/sequelize/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/sequelize/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/serve-static/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/shimmer/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/sqlstring/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/string_decoder/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/terraformer-wkt-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/terraformer/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/toposort-class/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/type-is/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/uglify-js/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/uglify-to-browserify/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/uid-safe/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/unpipe/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/util-deprecate/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/utils-merge/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/uuid/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/validator/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/vary/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/walk/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/window-size/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/wkx/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/yallist/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/node_modules/yargs/package.json" />
+      <path value="D:/former-d/2018/softuni/examSofTech/CatShop_Skeletons/js/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/accepts/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/align-text/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/amdefine/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/array-flatten/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/async/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/body-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/center-align/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/cliui/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/content-disposition/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/content-type/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/cookie-signature/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/cookie/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/decamelize/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/destroy/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/ee-first/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/encodeurl/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/escape-html/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/etag/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/fresh/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/ipaddr.js/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/mime/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/ms/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/qs/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/send/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/express/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/foreachasync/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/forwarded/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/handlebars-helper-selectif/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/handlebars/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/hbs/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/iconv-lite/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/inherits/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/is-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/kind-of/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/lazy-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/longest/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/media-typer/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/merge-descriptors/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/methods/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/mime-db/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/mime-types/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/minimist/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/ms/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/negotiator/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/on-finished/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/optimist/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/parseurl/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/path-to-regexp/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/qs/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/range-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/raw-body/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/repeat-string/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/right-align/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/safe-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/type-is/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/uglify-js/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/uglify-to-browserify/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/unpipe/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/vary/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/walk/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/window-size/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/node_modules/yargs/package.json" />
+      <path value="D:/former-d/2018/softuni/skeleton/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/accepts/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/align-text/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/amdefine/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/array-flatten/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/async/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/basic-auth/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/body-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/bytes/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/camelcase/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/center-align/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/cliui/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/content-disposition/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/content-type/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/cookie-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/cookie-signature/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/cookie/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/debug/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/decamelize/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/destroy/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/ee-first/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/encodeurl/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/escape-html/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/etag/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/express/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/finalhandler/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/foreachasync/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/forwarded/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/fresh/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/handlebars/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/hbs/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/http-errors/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/iconv-lite/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/inherits/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/ipaddr.js/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/is-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/kind-of/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/lazy-cache/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/longest/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/media-typer/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/merge-descriptors/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/methods/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/mime-db/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/mime-types/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/mime/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/minimist/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/morgan/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/ms/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/negotiator/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/on-finished/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/on-headers/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/optimist/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/parseurl/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/path-to-regexp/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/proxy-addr/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/qs/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/range-parser/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/raw-body/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/repeat-string/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/right-align/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/safe-buffer/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/send/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/serve-static/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/setprototypeof/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/statuses/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/type-is/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/uglify-js/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/uglify-to-browserify/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/unpipe/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/utils-merge/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/vary/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/walk/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/window-size/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/wordwrap/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/node_modules/yargs/package.json" />
+      <path value="D:/former-d/2018/softuni/untitled/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="36" />
+    <option name="width" value="1165" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="bookShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="carSalesman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="classBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="companyRoster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Ferrari" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="GenericBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfacePerson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="mankind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="multiplyImp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="onlineDataBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPBasicDefineCl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPbasicOpinion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPBasicStaticId" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="personInheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="pokemonTrainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="polimorfism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="prepExam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem2VehiclesExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="rawData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="venchilesOOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="animalFarm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPbAsicBankAcLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstJavaProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPBasicPerson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstJavaProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softuni" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="D:/former-d/2018/softuni" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="advancedJava.multiplyImp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="advancedJava.GenericBox" />
+      <recent name="advancedJava.BloodExamPrep" />
+      <recent name="advancedJava.onlineDataBase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJava.Ferrari.Main" />
+      <module name="MyFirstJavaProgram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedJava.Ferrari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJava.Book.Main" />
+      <module name="MyFirstJavaProgram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedJava.Book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJava.InterfacePerson.Main" />
+      <module name="MyFirstJavaProgram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedJava.InterfacePerson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJava.multiplyImp.Main" />
+      <module name="MyFirstJavaProgram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedJava.multiplyImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJava.venchilesOOP.Main" />
+      <module name="MyFirstJavaProgram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedJava.venchilesOOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c26341a-cbb1-4876-bc52-5428850d6c62" name="Default" comment="" />
+      <created>1505235492774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505235492774</updated>
+      <workItem from="1527785490723" duration="715000" />
+      <workItem from="1528096324290" duration="9570000" />
+      <workItem from="1528118425462" duration="4746000" />
+      <workItem from="1528123844742" duration="1424000" />
+      <workItem from="1528191417348" duration="8393000" />
+      <workItem from="1528269641064" duration="10779000" />
+      <workItem from="1528348343524" duration="23394000" />
+      <workItem from="1528382118401" duration="3357000" />
+      <workItem from="1528441638410" duration="5172000" />
+      <workItem from="1528454575294" duration="3437000" />
+      <workItem from="1528522290655" duration="19370000" />
+      <workItem from="1528547804760" duration="10678000" />
+      <workItem from="1528610038502" duration="20254000" />
+      <workItem from="1528638839761" duration="5042000" />
+      <workItem from="1528726366212" duration="1187000" />
+      <workItem from="1528813949238" duration="279000" />
+      <workItem from="1528814756849" duration="1775000" />
+      <workItem from="1528882185732" duration="5599000" />
+      <workItem from="1528952045148" duration="4141000" />
+      <workItem from="1528958455224" duration="6750000" />
+      <workItem from="1528980196264" duration="9254000" />
+      <workItem from="1529041482865" duration="7740000" />
+      <workItem from="1529059042836" duration="11380000" />
+      <workItem from="1529074010673" duration="10812000" />
+      <workItem from="1529123000627" duration="2288000" />
+      <workItem from="1529174847800" duration="4226000" />
+      <workItem from="1529211206690" duration="28499000" />
+      <workItem from="1529252172781" duration="3695000" />
+      <workItem from="1529257088618" duration="4231000" />
+      <workItem from="1529296411012" duration="19250000" />
+      <workItem from="1529326275490" duration="2841000" />
+      <workItem from="1529332333498" duration="842000" />
+      <workItem from="1529397040485" duration="576000" />
+      <workItem from="1529398197943" duration="666000" />
+      <workItem from="1529403207654" duration="8561000" />
+      <workItem from="1529478767164" duration="4156000" />
+      <workItem from="1529501082930" duration="20123000" />
+      <workItem from="1529567297661" duration="14678000" />
+      <workItem from="1529589614164" duration="7687000" />
+      <workItem from="1529656014518" duration="2029000" />
+      <workItem from="1529663130019" duration="3285000" />
+      <workItem from="1529688084110" duration="5477000" />
+      <workItem from="1529694228045" duration="1966000" />
+      <workItem from="1529736235420" duration="15144000" />
+      <workItem from="1529767582716" duration="1256000" />
+      <workItem from="1529937343211" duration="1194000" />
+      <workItem from="1530090287019" duration="18112000" />
+      <workItem from="1530192728454" duration="2710000" />
+      <workItem from="1530197084607" duration="604000" />
+      <workItem from="1530281395415" duration="591000" />
+      <workItem from="1530385735795" duration="580000" />
+      <workItem from="1530546564161" duration="4700000" />
+      <workItem from="1530605451597" duration="1371000" />
+      <workItem from="1530606972055" duration="193000" />
+      <workItem from="1530614938817" duration="1523000" />
+      <workItem from="1530617612205" duration="9000" />
+      <workItem from="1530787654701" duration="8029000" />
+      <workItem from="1531235684505" duration="2585000" />
+      <workItem from="1531412585464" duration="2820000" />
+      <workItem from="1531477903975" duration="3860000" />
+      <workItem from="1532621256931" duration="1256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="386861000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="130" y="36" width="1165" height="696" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.329582" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32885087" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.54662377" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.4029575" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32737032" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20090498" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.085027725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.17845659" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32889733" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.1932271" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.2623574" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603015" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5482315" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329582" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.19614148" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="89" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>employees.get(d.getKey())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>d.getKey()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/WhiteBloodCell.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/RedBloodCell.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Microbes.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Bacteria.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Virus.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Fungi.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Cells.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Clusters.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/BloodExamPrep/Organism.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/multiplyImp/CitizenTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/InterfacePerson/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/InterfacePerson/Citizen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/InterfacePerson/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/multiplyImp/Birthable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/multiplyImp/Citizen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/multiplyImp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/multiplyImp/Identifiable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Ferrari/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Ferrari/Ferrari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Ferrari/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/GenericBox/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/GenericBox/Jar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/GenericBox/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Library/Library.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Library/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Book/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advancedJava/Book/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/charity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/cockteils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/dolars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/dyadostavri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/excersices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/loopsN1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/loops2N.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/leftrightsum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/izpitSixth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/izpit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/examLate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/Convertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/loopsprez3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/myakoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/newnew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/october.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/p03_Even_or_Odd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/square_stars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/steropor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/tcikyl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyFirstJavaProgram</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
